@@ -59,6 +59,21 @@ The following analyses were conducted:
 
 ---
 
+## Visualizations
+
+### Monthly Booking Trend
+![Monthly Booking Trend](visuals/monthly_booking_trend.png)
+
+### Cancellation Rate by Hotel Type
+![Cancellation Rate](visuals/cancellation_rate_hotel_type.png)
+
+### Lead Time Distribution
+![Lead Time Distribution](visuals/lead_time_distribution.png)
+
+### Top 10 Countries by Bookings
+![Top Countries](visuals/top_10_countries_bookings.png)
+
+
 ## Repository Structure
 
 ```
